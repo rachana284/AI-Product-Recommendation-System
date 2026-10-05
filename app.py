@@ -20,7 +20,7 @@ st.set_page_config(
 @st.cache_data
 def load_products():
 
-    df = pd.read_csv("data/products.csv")
+    df = pd.read_csv("products.csv")
 
     # Convert numeric columns if they exist
     for column in ["price", "rating", "reviews"]:
