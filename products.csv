@@ -1,0 +1,110 @@
+id,name,category,subcategory,brand,price,rating,reviews,purpose,description,features,image,availability,recommended_for
+K001,LG 655L Side-by-Side Refrigerator,Kitchen Appliances,Refrigerator,LG,85000,4.5,2100,Food storage,Large refrigerator for families,655L;Frost Free;Inverter;Multi Air Flow,,Available,Food storage
+K002,Samsung 653L Side-by-Side Refrigerator,Kitchen Appliances,Refrigerator,Samsung,92000,4.5,1850,Food storage,Large-capacity refrigerator for family use,653L;Frost Free;Digital Inverter,,Available,Food storage
+K003,Whirlpool 265L Double Door Refrigerator,Kitchen Appliances,Refrigerator,Whirlpool,30000,4.4,3200,Food storage,Practical refrigerator for everyday family use,265L;Frost Free;Inverter,,Available,Food storage
+K004,IFB 30L Convection Microwave Oven,Kitchen Appliances,Microwave Oven,IFB,12500,4.4,2400,Cooking,"Microwave for reheating, baking and cooking",30L;Convection;Auto Cook,,Available,Cooking
+K005,Samsung 28L Convection Microwave Oven,Kitchen Appliances,Microwave Oven,Samsung,14500,4.5,1900,Cooking,Versatile microwave for home cooking,28L;Convection;Grill,,Available,Cooking
+K006,Prestige 1600W Induction Cooktop,Kitchen Appliances,Induction Cooktop,Prestige,2800,4.3,6500,Cooking,Compact induction cooktop for everyday cooking,1600W;Preset Menus;Timer,,Available,Cooking
+K007,Philips Air Fryer 4.1L,Kitchen Appliances,Air Fryer,Philips,6500,4.5,4800,Cooking,Air fryer for lower-oil cooking,4.1L;Rapid Air;Digital Controls,,Available,Cooking
+K008,AGARO Imperial Air Fryer 12L,Kitchen Appliances,Air Fryer,AGARO,8500,4.4,2300,Cooking,Large air fryer for family meals,12L;Digital;Multiple Presets,,Available,Cooking
+K009,Bajaj Rex 500W Mixer Grinder,Kitchen Appliances,Mixer Grinder,Bajaj,2600,4.3,7200,Food preparation,Mixer grinder for everyday kitchen preparation,500W;3 Jars;Stainless Steel Blades,,Available,Food preparation
+K010,Preethi Zodiac Mixer Grinder,Kitchen Appliances,Mixer Grinder,Preethi,7800,4.5,4100,Food preparation,Powerful mixer grinder for varied kitchen tasks,750W;Multiple Jars;Food Processor,,Available,Food preparation
+K011,Kent Grand Plus RO Water Purifier,Kitchen Appliances,Water Purifier,Kent,18500,4.4,3600,Drinking water,RO purifier for household drinking water,RO+UV+UF;8L Storage;TDS Control,,Available,Drinking water
+K012,Aquaguard Aura RO Water Purifier,Kitchen Appliances,Water Purifier,Aquaguard,16500,4.3,2900,Drinking water,Multi-stage household water purifier,RO+UV;8L Storage;Multiple Filters,,Available,Drinking water
+K013,Bosch 13 Place Dishwasher,Kitchen Appliances,Dishwasher,Bosch,48000,4.5,1500,Cleaning dishes,Dishwasher for automated kitchen cleaning,13 Place Settings;Multiple Programs;Eco Mode,,Available,Cleaning dishes
+K014,Faber 60cm Kitchen Chimney,Kitchen Appliances,Chimney,Faber,11500,4.4,2200,Kitchen ventilation,Chimney for removing smoke and cooking odors,Auto Clean;Filterless;60cm,,Available,Kitchen ventilation
+K015,Butterfly Rapid Electric Kettle,Kitchen Appliances,Electric Kettle,Butterfly,1500,4.2,5200,Boiling water,"Electric kettle for tea, coffee and hot water",1.5L;Auto Shut Off;Fast Boiling,,Available,Boiling water
+H001,LG 9kg Front Load Washing Machine,Home Appliances,Washing Machine,LG,42000,4.6,2800,Laundry,Large-capacity washing machine for families,9kg;Inverter;Steam;Multiple Programs,,Available,Laundry
+H002,Samsung 8kg Front Load Washing Machine,Home Appliances,Washing Machine,Samsung,36000,4.5,3100,Laundry,Efficient washing machine for everyday laundry,8kg;Digital Inverter;EcoBubble,,Available,Laundry
+H003,Whirlpool 7.5kg Top Load Washing Machine,Home Appliances,Washing Machine,Whirlpool,22000,4.3,3500,Laundry,Easy-to-use top-load washer,7.5kg;Multiple Wash Programs;Delay Start,,Available,Laundry
+H004,IFB 8kg Front Load Washing Machine,Home Appliances,Washing Machine,IFB,34000,4.5,2600,Laundry,Feature-rich washing machine for families,8kg;Steam;Inverter;Aqua Energie,,Available,Laundry
+H005,Dyson V12 Detect Slim,Home Appliances,Vacuum Cleaner,Dyson,52000,4.6,1800,Home cleaning,Cordless vacuum for detailed home cleaning,Cordless;HEPA;Laser Detection,,Available,Home cleaning
+H006,Eureka Forbes Robo Vac,Home Appliances,Robot Vacuum,Eureka Forbes,28000,4.3,1200,Home cleaning,Robot vacuum for automated floor cleaning,Mapping;App Control;Mop,,Available,Home cleaning
+H007,Philips PowerPro Vacuum Cleaner,Home Appliances,Vacuum Cleaner,Philips,9500,4.4,2400,Home cleaning,Compact vacuum for everyday cleaning,Bagless;Powerful Suction;Multiple Attachments,,Available,Home cleaning
+H008,Karcher Wet and Dry Vacuum,Home Appliances,Wet Dry Vacuum,Karcher,15000,4.5,1100,Home cleaning,Vacuum for dry and wet household cleaning,Wet/Dry;Large Tank;Blower Function,,Available,Home cleaning
+H009,Philips Steam Iron,Home Appliances,Iron,Philips,2800,4.4,4100,Clothing care,Steam iron for everyday clothes,Steam;Non-stick Soleplate;Auto Shut Off,,Available,Clothing care
+H010,Bajaj Majesty Dry Iron,Home Appliances,Iron,Bajaj,1300,4.2,3600,Clothing care,Simple dry iron for household use,1000W;Non-stick Soleplate;Temperature Control,,Available,Clothing care
+H011,AGARO Garment Steamer,Home Appliances,Clothes Steamer,AGARO,3000,4.3,1800,Clothing care,Portable steamer for removing wrinkles,Steam;Fast Heat;Portable,,Available,Clothing care
+C001,LG 1.5 Ton 5 Star Split AC,Cooling Appliances,Air Conditioner,LG,45000,4.6,3200,Cooling,Energy-efficient AC for bedrooms and living rooms,1.5 Ton;5 Star;Inverter;Wi-Fi,,Available,Cooling
+C002,Daikin 1.5 Ton 5 Star Split AC,Cooling Appliances,Air Conditioner,Daikin,48000,4.7,2900,Cooling,Efficient inverter AC for home comfort,1.5 Ton;5 Star;Inverter;PM2.5 Filter,,Available,Cooling
+C003,Voltas 1.5 Ton 3 Star Split AC,Cooling Appliances,Air Conditioner,Voltas,34000,4.3,4100,Cooling,Affordable split AC for home use,1.5 Ton;3 Star;Inverter,,Available,Cooling
+C004,Symphony Diet 12T Tower Air Cooler,Cooling Appliances,Air Cooler,Symphony,12000,4.2,2300,Cooling,Tower cooler for hot weather,12L;Remote;Timer,,Available,Cooling
+C005,Bajaj PX 97 Torque Air Cooler,Cooling Appliances,Air Cooler,Bajaj,9500,4.2,3100,Cooling,Room cooler for everyday summer use,36L;Honeycomb Pads;Remote,,Available,Cooling
+C006,Atomberg Efficio Ceiling Fan,Cooling Appliances,Ceiling Fan,Atomberg,4200,4.5,2800,Air circulation,Energy-efficient smart ceiling fan,BLDC;Remote;Energy Efficient,,Available,Air circulation
+C007,Orient Electric Wall Fan,Cooling Appliances,Wall Fan,Orient,2600,4.3,1900,Air circulation,Wall-mounted fan for rooms and offices,High Speed;Oscillation;Remote,,Available,Air circulation
+W001,Bajaj Majesty 15L Water Heater,Heating Appliances,Geyser,Bajaj,9000,4.3,2400,Hot water,Storage water heater for household use,15L;Safety Features;Temperature Control,,Available,Hot water
+W002,AO Smith 15L Water Heater,Heating Appliances,Geyser,AO Smith,12000,4.5,2100,Hot water,Energy-efficient water heater,15L;Digital Display;Safety System,,Available,Hot water
+W003,Havells 2000W Room Heater,Heating Appliances,Room Heater,Havells,4200,4.3,1800,Room heating,Portable heater for cold weather,2000W;Thermostat;Overheat Protection,,Available,Room heating
+W004,Usha Quartz Room Heater,Heating Appliances,Room Heater,Usha,1800,4.1,2700,Room heating,Compact heater for personal use,Quartz;Adjustable Heat;Safety Switch,,Available,Room heating
+L001,LG 55-inch 4K Smart TV,Home Entertainment,Smart TV,LG,55000,4.5,3900,Entertainment,4K smart television for family entertainment,55-inch;4K;HDR;WebOS,,Available,Entertainment
+L002,Samsung 55-inch Crystal 4K TV,Home Entertainment,Smart TV,Samsung,52000,4.5,4200,Entertainment,Smart TV with 4K picture quality,55-inch;4K;HDR;Tizen,,Available,Entertainment
+L003,Sony Bravia 55-inch 4K Google TV,Home Entertainment,Smart TV,Sony,72000,4.7,2800,Entertainment,Premium TV for movies and streaming,55-inch;4K;HDR;Google TV,,Available,Entertainment
+L004,Tata Play Binge Android Set Top Box,Home Entertainment,Streaming Device,Tata Play,3500,4.2,1600,Streaming,Streaming and TV entertainment device,HDMI;Apps;Wi-Fi,,Available,Streaming
+L005,Amazon Fire TV Stick 4K,Home Entertainment,Streaming Device,Amazon,6000,4.5,7600,Streaming,Streaming device for compatible TVs,4K;Voice Remote;Apps,,Available,Streaming
+L006,Sony HT-S40R Home Theatre,Home Entertainment,Sound System,Sony,28000,4.5,1800,Movies and music,Home theatre system for immersive sound,5.1 Channel;Wireless Rear Speakers;Bluetooth,,Available,Movies and music
+L007,JBL Bar 500 Soundbar,Home Entertainment,Soundbar,JBL,32000,4.6,1400,Movies and music,Soundbar for TV and music,Dolby Atmos;Subwoofer;Wi-Fi,,Available,Movies and music
+P001,Philips Beard Trimmer Series 3000,Personal Care,Trimmer,Philips,1800,4.4,8500,Grooming,Cordless trimmer for everyday grooming,Cordless;Multiple Length Settings;Washable,,Available,Grooming
+P002,Philips Electric Shaver,Personal Care,Shaver,Philips,4500,4.3,3200,Grooming,Electric shaver for convenient daily use,Rechargeable;Wet and Dry;Skin Protection,,Available,Grooming
+P003,Oral-B Pro Electric Toothbrush,Personal Care,Electric Toothbrush,Oral-B,2800,4.5,4600,Oral care,Rechargeable electric toothbrush,Pressure Sensor;Timer;Rechargeable,,Available,Oral care
+P004,Beurer Digital Weighing Scale,Personal Care,Weighing Scale,Beurer,1800,4.3,1900,Fitness,Digital scale for household use,Digital Display;Auto On;High Precision,,Available,Fitness
+P005,Philips Hair Dryer,Personal Care,Hair Dryer,Philips,2200,4.4,3600,Hair care,Compact hair dryer for everyday use,Multiple Heat Settings;Cool Air;Foldable,,Available,Hair care
+S001,TP-Link Tapo Indoor Security Camera,Home Security,Security Camera,TP-Link,2500,4.4,5200,Home security,Indoor camera for monitoring rooms,1080p;Night Vision;Motion Detection,,Available,Home security
+S002,Qubo Smart Outdoor Camera,Home Security,Security Camera,Qubo,4200,4.3,2800,Home security,Outdoor camera for household monitoring,Full HD;Night Vision;Motion Alerts,,Available,Home security
+S003,Godrej Digital Door Lock,Home Security,Smart Lock,Godrej,12000,4.4,950,Home security,Digital lock for improved door access control,PIN;Fingerprint;Mechanical Key,,Available,Home security
+S004,Honeywell Smoke Alarm,Home Security,Smoke Detector,Honeywell,2500,4.5,850,Fire safety,Smoke detector for household safety,Smoke Sensor;Alarm;Battery Powered,,Available,Fire safety
+E001,TP-Link Wi-Fi 6 Router,Electronics,Wi-Fi Router,TP-Link,4500,4.5,6200,Internet connectivity,Fast home router for multiple devices,Wi-Fi 6;Dual Band;Gigabit,,Available,Internet connectivity
+E002,Tenda Mesh Wi-Fi System,Electronics,Mesh Router,Tenda,6500,4.4,2900,Internet connectivity,Mesh system for wider home Wi-Fi coverage,Mesh;Dual Band;App Control,,Available,Internet connectivity
+E003,APC 1100VA UPS,Electronics,UPS,APC,6500,4.4,2100,Power backup,UPS for computers and home electronics,1100VA;Battery Backup;Surge Protection,,Available,Power backup
+E004,Belkin 6-Socket Surge Protector,Electronics,Surge Protector,Belkin,1800,4.4,1700,Electrical safety,Power strip for protecting electronics,6 Sockets;Surge Protection;USB,,Available,Electrical safety
+E005,Mi Smart LED Bulb,Electronics,Smart Lighting,Xiaomi,800,4.3,8500,Lighting,Smart bulb with app and voice control,Wi-Fi;Dimmable;Smart Control,,Available,Lighting
+E006,Philips Smart LED Bulb,Electronics,Smart Lighting,Philips,950,4.4,6200,Lighting,Connected smart bulb for home lighting,Wi-Fi;Dimmable;Voice Control,,Available,Lighting
+F001,IKEA Study Desk,Furniture,Study Desk,IKEA,8500,4.5,1200,Study and work,Simple desk for studying and working,Wood;Storage;Compact,,Available,Study and work
+F002,Wakefit Memory Foam Mattress,Furniture,Mattress,Wakefit,12000,4.5,5200,Sleep,Memory foam mattress for home bedrooms,Memory Foam;Medium Firm;Breathable,,Available,Sleep
+F003,SleepyCat Original Mattress,Furniture,Mattress,SleepyCat,14000,4.5,4300,Sleep,Comfort-focused mattress for everyday use,Memory Foam;Cooling;Medium Firm,,Available,Sleep
+F004,Nilkamal Plastic Storage Cabinet,Furniture,Storage Cabinet,Nilkamal,6500,4.2,1800,Storage,Storage cabinet for household organization,Multiple Shelves;Lightweight;Durable,,Available,Storage
+F005,Milton Water Bottle 1L,Home Essentials,Water Bottle,Milton,700,4.4,6200,Daily use,Reusable bottle for everyday hydration,1L;Leak Proof;Durable,,Available,Daily use
+F006,Prestige Electric Rice Cooker,Kitchen Appliances,Rice Cooker,Prestige,2800,4.3,4100,Cooking,Electric cooker for rice and simple meals,1L;Keep Warm;Auto Cooking,,Available,Cooking
+F007,Kent Electric Chopper,Kitchen Appliances,Food Chopper,Kent,2200,4.3,2500,Food preparation,Compact electric chopper for kitchen preparation,400W;Stainless Steel Blades;One Touch,,Available,Food preparation
+F008,Havells Sandwich Maker,Kitchen Appliances,Sandwich Maker,Havells,2600,4.4,3100,Cooking,Compact appliance for sandwiches and snacks,Grill Plates;Non-stick;Indicator Lights,,Available,Cooking
+F009,Pigeon Electric Kettle 1.5L,Kitchen Appliances,Electric Kettle,Pigeon,1100,4.2,7400,Boiling water,Affordable kettle for hot water and beverages,1.5L;Auto Shut Off;Fast Boiling,,Available,Boiling water
+F010,Usha Room Heater 2000W,Heating Appliances,Room Heater,Usha,3500,4.2,2400,Room heating,Portable room heater for winter,2000W;Thermostat;Safety Cutoff,,Available,Room heating
+M001,Samsung Galaxy A16 5G,Mobiles,Smartphone,Samsung,15499,4.3,18500,Everyday smartphone,Affordable 5G smartphone for students and everyday use,6.7-inch AMOLED;5G;50MP Camera;5000mAh Battery,,Available,Students;Everyday use
+M002,Redmi Note 14 5G,Mobiles,Smartphone,Redmi,17999,4.4,16200,Everyday smartphone,Value-focused 5G phone with a high quality display,6.67-inch AMOLED;5G;108MP Camera;5110mAh Battery,,Available,Students;Photography
+M003,Realme P3 5G,Mobiles,Smartphone,Realme,16999,4.3,9800,Gaming and everyday use,Affordable 5G phone with strong performance,120Hz Display;5G;50MP Camera;6000mAh Battery,,Available,Students;Gaming
+M004,OnePlus Nord CE4 Lite 5G,Mobiles,Smartphone,OnePlus,19999,4.4,12500,Everyday smartphone,Mid-range 5G smartphone with AMOLED display,120Hz AMOLED;5G;80W Charging;5500mAh Battery,,Available,Students;Everyday use
+M005,Motorola Moto G85 5G,Mobiles,Smartphone,Motorola,19999,4.3,8700,Everyday smartphone,Stylish mid-range phone with curved display,120Hz pOLED;5G;50MP Camera;5000mAh Battery,,Available,Students;Everyday use
+M006,POCO X7 5G,Mobiles,Smartphone,POCO,22999,4.4,11300,Gaming,Performance-focused 5G phone for gaming,120Hz AMOLED;5G;Dimensity Processor;5500mAh Battery,,Available,Gaming;Students
+M007,Vivo T4x 5G,Mobiles,Smartphone,Vivo,15999,4.3,7600,Battery life,5G smartphone designed for long battery life,6500mAh Battery;5G;50MP Camera;Fast Charging,,Available,Students;Heavy users
+M008,OPPO K13 5G,Mobiles,Smartphone,OPPO,17999,4.3,6900,Everyday smartphone,Balanced 5G phone with fast charging,AMOLED Display;5G;50MP Camera;80W Charging,,Available,Students;Everyday use
+M009,iQOO Z10 5G,Mobiles,Smartphone,iQOO,23999,4.5,9100,Performance,High-performance phone with large battery,AMOLED;5G;Snapdragon Processor;7300mAh Battery,,Available,Gaming;Power users
+M010,Nothing Phone (3a),Mobiles,Smartphone,Nothing,24999,4.4,6400,Photography and everyday use,Distinctive mid-range smartphone with clean software,AMOLED;5G;50MP Camera;Clean Android,,Available,Students;Photography
+M011,Samsung Galaxy S24 FE,Mobiles,Smartphone,Samsung,44999,4.5,22000,Premium smartphone,Premium-feel phone with strong camera and display,AMOLED 120Hz;5G;50MP Camera;IP68,,Available,Photography;Premium users
+M012,OnePlus 13R,Mobiles,Smartphone,OnePlus,42999,4.6,18800,Performance,Powerful smartphone for productivity and gaming,120Hz AMOLED;5G;High-end Processor;6000mAh Battery,,Available,Gaming;Power users
+M013,Google Pixel 9a,Mobiles,Smartphone,Google,49999,4.5,11500,Photography,Camera-focused smartphone with clean Android,OLED Display;5G;Advanced Camera AI;IP68,,Available,Photography;Premium users
+M014,Samsung Galaxy S25,Mobiles,Smartphone,Samsung,74999,4.6,9200,Premium smartphone,Compact flagship smartphone with premium features,Dynamic AMOLED;5G;Flagship Processor;IP68,,Available,Premium users;Photography
+M015,OnePlus 13,Mobiles,Smartphone,OnePlus,69999,4.6,10300,Flagship performance,High-end smartphone for demanding users,2K AMOLED;5G;Flagship Processor;Fast Charging,,Available,Gaming;Power users
+M016,Apple iPhone 15,Mobiles,Smartphone,Apple,59999,4.6,35000,Premium smartphone,Reliable premium smartphone with strong camera system,6.1-inch OLED;5G;48MP Camera;Face ID,,Available,Premium users;Photography
+M017,Apple iPhone 16,Mobiles,Smartphone,Apple,69999,4.7,28000,Premium smartphone,Current-generation iPhone for everyday and creative use,OLED;5G;48MP Camera;A18 Chip,,Available,Premium users;Students
+M018,Apple iPhone 16 Pro,Mobiles,Smartphone,Apple,109999,4.8,17500,Professional photography,Pro flagship for photography and demanding apps,ProMotion OLED;5G;Pro Camera System;A18 Pro,,Available,Photography;Professionals
+M019,Samsung Galaxy S25 Ultra,Mobiles,Smartphone,Samsung,129999,4.8,14800,Premium productivity,Large flagship phone with advanced cameras and S Pen,6.9-inch AMOLED;200MP Camera;S Pen;5G,,Available,Professionals;Photography
+M020,Google Pixel 9 Pro XL,Mobiles,Smartphone,Google,109999,4.7,7200,Photography and AI,Premium phone focused on camera and AI features,LTPO OLED;5G;Pro Camera;AI Features,,Available,Photography;AI users
+L001,Acer Aspire Lite 15,Laptops,Student Laptop,Acer,39990,4.2,5400,Student use,Affordable laptop for college work and daily tasks,15.6-inch FHD;16GB RAM;512GB SSD;Intel Core i5,,Available,Students;Office work
+L002,Lenovo IdeaPad Slim 3,Laptops,Student Laptop,Lenovo,44990,4.3,6800,Student use,"Reliable laptop for college, browsing and programming",15.6-inch FHD;16GB RAM;512GB SSD;AMD Ryzen 5,,Available,Students;Programming
+L003,HP 15s,Laptops,Student Laptop,HP,45990,4.3,7200,Student use,Everyday laptop for study and office work,15.6-inch FHD;16GB RAM;512GB SSD;Intel Core i5,,Available,Students;Office work
+L004,ASUS Vivobook 15,Laptops,Student Laptop,ASUS,47990,4.4,6100,Student and coding,Slim laptop suitable for coding and college projects,15.6-inch OLED;16GB RAM;512GB SSD;Intel Core i5,,Available,Students;Programming
+L005,Dell Inspiron 15,Laptops,Student Laptop,Dell,49990,4.3,5900,College and office,Versatile laptop for study and productivity,15.6-inch FHD;16GB RAM;512GB SSD;Intel Core i5,,Available,Students;Office work
+L006,Lenovo ThinkBook 14,Laptops,Business Laptop,Lenovo,59990,4.4,4300,Business and coding,Business-oriented laptop for productivity and programming,14-inch FHD;16GB RAM;512GB SSD;Intel Core i5,,Available,Professionals;Programming
+L007,HP Pavilion 14,Laptops,Student Laptop,HP,64990,4.4,5100,Coding and productivity,Portable laptop for college and software development,14-inch FHD;16GB RAM;1TB SSD;Intel Core i5,,Available,Students;Programming
+L008,ASUS Vivobook S14,Laptops,Premium Student Laptop,ASUS,69990,4.5,3900,Coding and productivity,Lightweight premium laptop for students and developers,14-inch OLED;16GB RAM;1TB SSD;Intel Core Ultra,,Available,Students;Programming
+L009,Acer Nitro V,Laptops,Gaming Laptop,Acer,74990,4.4,8200,Gaming,Gaming laptop that also works well for coding,15.6-inch 144Hz;16GB RAM;512GB SSD;RTX Graphics,,Available,Gaming;Programming
+L010,Lenovo LOQ 15,Laptops,Gaming Laptop,Lenovo,79990,4.5,7600,Gaming and development,"Powerful laptop for gaming, coding and creative work",15.6-inch 144Hz;16GB RAM;512GB SSD;RTX Graphics,,Available,Gaming;Programming
+L011,HP Victus 15,Laptops,Gaming Laptop,HP,84990,4.5,6900,Gaming,Performance laptop for gaming and demanding applications,15.6-inch 144Hz;16GB RAM;512GB SSD;RTX Graphics,,Available,Gaming;Students
+L012,ASUS TUF Gaming A15,Laptops,Gaming Laptop,ASUS,89990,4.6,9700,Gaming and development,Durable gaming laptop for heavy workloads,15.6-inch 144Hz;16GB RAM;1TB SSD;RTX Graphics,,Available,Gaming;Programming
+L013,Dell G15,Laptops,Gaming Laptop,Dell,94990,4.5,5300,Gaming and engineering,High-performance laptop for engineering software and gaming,15.6-inch 165Hz;16GB RAM;1TB SSD;RTX Graphics,,Available,Gaming;Engineering students
+L014,Lenovo Yoga Slim 7,Laptops,Premium Laptop,Lenovo,99990,4.5,3200,Premium productivity,Slim premium laptop for professionals and students,14-inch OLED;16GB RAM;1TB SSD;Intel Core Ultra,,Available,Professionals;Students
+L015,HP Spectre x360,Laptops,2-in-1 Laptop,HP,119990,4.6,2800,Premium productivity,Convertible premium laptop for flexible work,14-inch OLED Touch;16GB RAM;1TB SSD;Intel Core Ultra,,Available,Professionals;Students
+L016,ASUS ROG Zephyrus G14,Laptops,Gaming Laptop,ASUS,149990,4.7,4600,Gaming and creative work,Premium compact gaming laptop for demanding users,14-inch OLED;32GB RAM;1TB SSD;RTX Graphics,,Available,Gaming;Creators
+L017,Dell XPS 14,Laptops,Premium Laptop,Dell,159990,4.6,2400,Professional work,Premium laptop for professional productivity and development,14.5-inch OLED;32GB RAM;1TB SSD;Intel Core Ultra,,Available,Professionals;Programming
+L018,MacBook Air M3,Laptops,Premium Laptop,Apple,99990,4.7,21000,Student and professional use,Lightweight laptop with strong battery life and performance,13.6-inch Retina;16GB RAM;512GB SSD;Apple M3,,Available,Students;Programming;Professionals
+L019,MacBook Pro 14 M4,Laptops,Professional Laptop,Apple,169990,4.8,11800,Professional development,Powerful laptop for software development and creative work,14.2-inch Liquid Retina XDR;24GB RAM;512GB SSD;Apple M4,,Available,Programming;Creators;Professionals
+L020,MacBook Pro 16 M4 Pro,Laptops,Professional Laptop,Apple,249990,4.8,7200,Heavy professional workloads,High-performance laptop for advanced development and creative workloads,16.2-inch Liquid Retina XDR;24GB RAM;512GB SSD;Apple M4 Pro,,Available,Professionals;Developers;Creators
